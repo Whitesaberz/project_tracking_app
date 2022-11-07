@@ -1,0 +1,1 @@
+export POSTGRES_URI="postgresql://dudew:Sephiroth6490@localhost:5432/project-tracking-app"
